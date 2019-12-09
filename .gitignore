@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+empirical_analysis/law_search/
+
 # Distribution / packaging
 .Python
 build/
